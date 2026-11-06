@@ -123,6 +123,8 @@ cap.release()
 
 ### Step4 : Rotate and display the video
 
+
+
 <img width="280" height="378" alt="image" src="https://github.com/user-attachments/assets/a9457a5c-ba98-4030-b7e1-cab6d188ed1a" />
 
 ### Result: 
